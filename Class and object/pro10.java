@@ -1,4 +1,4 @@
-class pro
+class helo
 {
     int x;
     public static int y;
@@ -16,6 +16,6 @@ public class pro10 {
     public static void main(String[] args) {
         pro t1;
         t1=new pro();
-        pro.show();
+        helo.show();
     }
 }
